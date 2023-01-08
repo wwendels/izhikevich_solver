@@ -1,1 +1,3 @@
 # izhikevich_solver
+
+Solves ....
